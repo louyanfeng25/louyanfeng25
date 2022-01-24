@@ -9,5 +9,6 @@
 - 🍺 如果你在杭州，喜欢喝两杯，没准我们可以成为朋友
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=louyanfeng25&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![Github Stats](https://github-readme-stats.vercel.app/api?username=louyanfeng25&show_icons=true&theme=dark&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louyanfeng25&theme=dark&layout=compact)
 
